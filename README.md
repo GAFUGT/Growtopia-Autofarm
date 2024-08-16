@@ -38,7 +38,7 @@ step 5️⃣ --> /farm to start placing and breaking (2 blocks in the direction 
 
 step 6️⃣ --> /farm to stop it :)
 
-Please note that this program also includes autocollect now, added in the V4.4 update.
+Please note that this program also includes autocollect now, added in the V4.4 update
 /Autocollect to enable (choose between 500-1000ms to be safe)
 
 Enjoy effortless farming!
