@@ -1,6 +1,6 @@
 # Growtopia-Autofarm
-⚡ Works in Growtopia V4.63 ⚡
-Updated to V4.4 ▶️ 07.08.24
+⚡ Works in Growtopia V4.64 ⚡
+Updated to V4.4 ▶️ 24.08.24
 
 ➡️ NEW IN VERSION V4.4 ⬅️
 -added autocollect /autocollect
